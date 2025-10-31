@@ -114,17 +114,22 @@ each explain which model they use.
 - [ ] Add parameter-efficient finetuning methods (LoRA)
 
 
+## License & Patent
+Licensed under the [Apache License 2.0](LICENSE).  
+See [PATENT_NOTICE.md](PATENT_NOTICE.md) for patent details.
+
+
 ## Cite Cell2Sentence
 
 If you use Cell2Sentence in your work, please cite our paper:
 
 ```bibtex
-@article{levine2023cell2sentence,
-  title={Cell2sentence: Teaching large language models the language of biology},
-  author={Levine, Daniel and L{\'e}vy, Sacha and Rizvi, Syed Asad and Pallikkavaliyaveetil, Nazreen and Chen, Xingyu and Zhang, David and Ghadermarzi, Sina and Wu, Ruiming and Zheng, Zihe and Vrkic, Ivan and others},
-  journal={bioRxiv},
-  pages={2023--09},
-  year={2023},
+@article{rizvi2025scaling,
+  title={Scaling large language models for next-generation single-cell analysis},
+  author={Rizvi, Syed Asad and Levine, Daniel and Patel, Aakash and Zhang, Shiyang and Wang, Eric and Perry, Curtis Jamison and Constante, Nicole Mayerli and He, Sizhuang and Zhang, David and Tang, Cerise and others},
+  journal={BioRxiv},
+  pages={2025--04},
+  year={2025},
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
